@@ -29,3 +29,6 @@ plotly
 langchain
 langchain-chroma
 langchain-community
+
+pysqlite3
+
