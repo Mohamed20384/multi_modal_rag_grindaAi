@@ -4,9 +4,9 @@ import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime
 
-# import sys
-# __import__('pysqlite3')
-# sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+import sys
+__import__('pysqlite3')
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 # Import your existing functions
 from rag import query_rag, evaluate_batch, qa_pairs
