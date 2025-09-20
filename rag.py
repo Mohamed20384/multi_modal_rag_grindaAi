@@ -8,18 +8,6 @@ from dotenv import load_dotenv
 from functools import lru_cache
 from typing import List
 
-import sys
-
-try:
-    import pysqlite3
-    sys.modules["sqlite3"] = pysqlite3
-except ImportError:
-    # Fallback: use system sqlite3 (works on Windows)
-    pass
-
-# Force Chroma to use the bundled sqlite
-sys.modules["sqlite3"] = pysqlite3
-
 from langchain_chroma import Chroma
 from langchain.retrievers.multi_vector import MultiVectorRetriever
 from langchain_community.storage import RedisStore

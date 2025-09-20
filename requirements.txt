@@ -30,5 +30,4 @@ langchain
 langchain-chroma
 langchain-community
 
-pysqlite3
-
+pysqlite3-binary
