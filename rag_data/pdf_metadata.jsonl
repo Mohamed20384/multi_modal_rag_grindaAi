@@ -1,0 +1,24 @@
+{"type": "table", "pdf": "Data\\원재료사용현황.pdf", "page": 1, "bbox": [0, 0.0, 792.0, 612.0], "rows": 5, "cols": 7, "csv_path": "output\\pdf_tables\\원재료사용현황\\원재료사용현황__page1_table0.csv"}
+{"type": "table", "pdf": "Data\\원재료사용현황.pdf", "page": 1, "bbox": [0, 0.0, 792.0, 612.0], "rows": 5, "cols": 7, "csv_path": "output\\pdf_tables\\원재료사용현황\\원재료사용현황__page1_table1.csv"}
+{"type": "image", "pdf": "Data\\원재료사용현황.pdf", "page": 1, "bbox": [586.5800170898438, 72.00000762939453, 719.97998046875, 105.35000610351562], "image_path": "output\\pdf_images\\원재료사용현황\\원재료사용현황__page1_img0.jpeg"}
+{"type": "image", "pdf": "Data\\원재료사용현황.pdf", "page": 1, "bbox": [586.5800170898438, 72.00000762939453, 719.97998046875, 105.35000610351562], "image_path": "output\\pdf_images\\원재료사용현황\\원재료사용현황__page1_img1.jpeg"}
+{"type": "table", "pdf": "Data\\전사인원현황.pdf", "page": 1, "bbox": [0, 0.0, 612.0, 792.0], "rows": 6, "cols": 5, "csv_path": "output\\pdf_tables\\전사인원현황\\전사인원현황__page1_table0.csv"}
+{"type": "table", "pdf": "Data\\전사인원현황.pdf", "page": 1, "bbox": [0, 0.0, 612.0, 792.0], "rows": 17, "cols": 5, "csv_path": "output\\pdf_tables\\전사인원현황\\전사인원현황__page1_table1.csv"}
+{"type": "table", "pdf": "Data\\전사인원현황.pdf", "page": 2, "bbox": [0, 0.0, 612.0, 792.0], "rows": 6, "cols": 9, "csv_path": "output\\pdf_tables\\전사인원현황\\전사인원현황__page2_table0.csv"}
+{"type": "table", "pdf": "Data\\전사인원현황.pdf", "page": 2, "bbox": [0, 0.0, 612.0, 792.0], "rows": 17, "cols": 9, "csv_path": "output\\pdf_tables\\전사인원현황\\전사인원현황__page2_table1.csv"}
+{"type": "table", "pdf": "Data\\전사인원현황.pdf", "page": 3, "bbox": [0, 0.0, 612.0, 792.0], "rows": 6, "cols": 4, "csv_path": "output\\pdf_tables\\전사인원현황\\전사인원현황__page3_table0.csv"}
+{"type": "table", "pdf": "Data\\전사인원현황.pdf", "page": 3, "bbox": [0, 0.0, 612.0, 792.0], "rows": 17, "cols": 4, "csv_path": "output\\pdf_tables\\전사인원현황\\전사인원현황__page3_table1.csv"}
+{"type": "table", "pdf": "Data\\전사인원현황.pdf", "page": 4, "bbox": [0, 0.0, 612.0, 792.0], "rows": 15, "cols": 5, "csv_path": "output\\pdf_tables\\전사인원현황\\전사인원현황__page4_table0.csv"}
+{"type": "table", "pdf": "Data\\전사인원현황.pdf", "page": 4, "bbox": [0, 0.0, 612.0, 792.0], "rows": 3, "cols": 5, "csv_path": "output\\pdf_tables\\전사인원현황\\전사인원현황__page4_table1.csv"}
+{"type": "table", "pdf": "Data\\전사인원현황.pdf", "page": 4, "bbox": [0, 0.0, 612.0, 792.0], "rows": 10, "cols": 5, "csv_path": "output\\pdf_tables\\전사인원현황\\전사인원현황__page4_table2.csv"}
+{"type": "table", "pdf": "Data\\전사인원현황.pdf", "page": 5, "bbox": [0, 0.0, 612.0, 792.0], "rows": 15, "cols": 9, "csv_path": "output\\pdf_tables\\전사인원현황\\전사인원현황__page5_table0.csv"}
+{"type": "table", "pdf": "Data\\전사인원현황.pdf", "page": 5, "bbox": [0, 0.0, 612.0, 792.0], "rows": 3, "cols": 9, "csv_path": "output\\pdf_tables\\전사인원현황\\전사인원현황__page5_table1.csv"}
+{"type": "table", "pdf": "Data\\전사인원현황.pdf", "page": 5, "bbox": [0, 0.0, 612.0, 792.0], "rows": 10, "cols": 9, "csv_path": "output\\pdf_tables\\전사인원현황\\전사인원현황__page5_table2.csv"}
+{"type": "table", "pdf": "Data\\전사인원현황.pdf", "page": 6, "bbox": [0, 0.0, 612.0, 792.0], "rows": 15, "cols": 4, "csv_path": "output\\pdf_tables\\전사인원현황\\전사인원현황__page6_table0.csv"}
+{"type": "table", "pdf": "Data\\전사인원현황.pdf", "page": 6, "bbox": [0, 0.0, 612.0, 792.0], "rows": 3, "cols": 4, "csv_path": "output\\pdf_tables\\전사인원현황\\전사인원현황__page6_table1.csv"}
+{"type": "table", "pdf": "Data\\전사인원현황.pdf", "page": 6, "bbox": [0, 0.0, 612.0, 792.0], "rows": 10, "cols": 4, "csv_path": "output\\pdf_tables\\전사인원현황\\전사인원현황__page6_table2.csv"}
+{"type": "table", "pdf": "Data\\전사인원현황.pdf", "page": 7, "bbox": [0, 0.0, 612.0, 792.0], "rows": 5, "cols": 5, "csv_path": "output\\pdf_tables\\전사인원현황\\전사인원현황__page7_table0.csv"}
+{"type": "table", "pdf": "Data\\전사인원현황.pdf", "page": 8, "bbox": [0, 0.0, 612.0, 792.0], "rows": 5, "cols": 9, "csv_path": "output\\pdf_tables\\전사인원현황\\전사인원현황__page8_table0.csv"}
+{"type": "table", "pdf": "Data\\전사인원현황.pdf", "page": 9, "bbox": [0, 0.0, 612.0, 792.0], "rows": 5, "cols": 4, "csv_path": "output\\pdf_tables\\전사인원현황\\전사인원현황__page9_table0.csv"}
+{"type": "image", "pdf": "Data\\전사인원현황.pdf", "page": 1, "bbox": [85.89299774169922, 80.906982421875, 158.74398803710938, 116.66998291015625], "image_path": "output\\pdf_images\\전사인원현황\\전사인원현황__page1_img0.jpeg"}
+{"type": "image", "pdf": "Data\\전사인원현황.pdf", "page": 3, "bbox": [99.61599731445312, 80.90702056884766, 223.2779998779297, 111.822021484375], "image_path": "output\\pdf_images\\전사인원현황\\전사인원현황__page3_img0.jpeg"}
