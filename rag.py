@@ -44,7 +44,7 @@ redis_store = RedisStore(client=redis_client, namespace="docs")
 chroma = Chroma(
     collection_name=COLLECTION_NAME,
     embedding_function=embeddings,
-    persist_directory=None
+    persist_directory=CHROMA_DIR
 )
 
 multi_retriever = MultiVectorRetriever(
