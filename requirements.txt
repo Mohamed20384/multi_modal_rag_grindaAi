@@ -5,6 +5,8 @@ pillow
 PyPDF2 
 pymupdf
 
+langchain_google_genai
+
 faiss-cpu 
 sentence-transformers 
 open-clip-torch 
